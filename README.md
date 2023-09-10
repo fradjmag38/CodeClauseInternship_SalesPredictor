@@ -1,5 +1,5 @@
 # CodeClauseInternship_SalesPredictor
-a Machine Learning project that forecasts a store sale
+A Machine Learning project that forecasts a store sales
 ## Project Overview
 
 This project aims to develop a sales forecasting model for Walmart stores using the M5 Forecasting Competition dataset from Kaggle. 
